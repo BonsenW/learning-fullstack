@@ -1,0 +1,16 @@
+{
+    "name": "basic-task-manager",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "author": "Bonsen D Wakjira",
+    "type": "module",
+    "main": "app.js",
+    "scripts": {
+        "dev": "nodemon --ext js,html,css main "
+    },
+    "dependencies": {
+        "express": "^5.1.0",
+        "nodemon": "^3.1.11"
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "teachers": [
+    {
+      "id": 647,
+      "name": "Marcus",
+      "kids": []
+    },
+    {
+      "id": 114,
+      "name": "Dean",
+      "kids": []
+    }
+  ],
+  "kids": []
+}
